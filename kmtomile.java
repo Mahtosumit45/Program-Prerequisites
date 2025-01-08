@@ -8,7 +8,7 @@ class kmtomile {
     System.out.println("kilometer :");
     k = myObj.nextInt();
     
-    mile=k*0.621371
+    mile=k*0.621371;
     System.out.println("Mile is : " + mile); 
   }
 } 
